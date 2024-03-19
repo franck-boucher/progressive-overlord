@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "29cda4c2-aa18-4619-8efd-a6189e1ed01e"
+      }
+    },
+    "owner": "franck-boucher"
   }
 }
